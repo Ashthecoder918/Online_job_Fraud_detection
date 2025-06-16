@@ -48,7 +48,6 @@ streamlit run dashboard.py
 # Project Structure
 
 project/
-│
 ├── dashboard.py
 ├── train_model.py
 ├── test_data.csv
