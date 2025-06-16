@@ -11,7 +11,7 @@ vectorizer = joblib.load("tfidf_vectorizer.pkl")
 # Load your cleaned dataset (used for visualization)
 @st.cache_data
 def load_data():
-    return pd.read_csv("your_cleaned_dataset.csv")  # Replace with your actual file
+    return pd.read_csv("train_dataset.csv")  # Replace with your actual file
 
 df = load_data()
 
