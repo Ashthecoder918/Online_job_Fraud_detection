@@ -59,7 +59,7 @@ project/
 ## links
 link to streamlit application
 
-https://a3c5-34-125-212-152.ngrok-free.app/
+https://onlinejobfrauddetection-uji6ofr9orh8gbxwsqjmjg.streamlit.app/
 
 ## Google Drive link
 
